@@ -2,7 +2,7 @@
 
 <!-- This is a template for AMAs, use discussions as forum :) ❤️ -->
 
-<!-- make sure you have a social preview uploaded for sharing on the socials -->
+<!-- make sure you have a social preview uploaded for sharing on the socials and change the links below -->
 
 Ask Me Anything on the [Discussions](https://github.com/Zeyu-Li/AMA/discussions)! ❤️
 
